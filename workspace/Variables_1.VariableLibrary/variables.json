@@ -2,10 +2,16 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/variables/1.0.0/schema.json",
   "variables": [
     {
-      "name": "table_name",
+      "name": "table_name_1",
       "note": "",
       "type": "String",
-      "value": "tbl_dev"
+      "value": "tbl_dev1"
+    },
+    {
+      "name": "table_name_2",
+      "note": "",
+      "type": "String",
+      "value": "tbl_dev2"
     }
   ]
 }
